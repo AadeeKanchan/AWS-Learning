@@ -1,7 +1,7 @@
 # Module 1: Introduction to Amazon Web Services
 
-**Date:** YYYY-MM-DD  
-**Status:** Not Started
+**Date:** 2026-11-25  
+**Status:**  Started
 
 ## Key Concepts
 
@@ -10,16 +10,4 @@
 - Cloud deployment models (Cloud, Hybrid, On-premises)
 - Benefits of AWS Cloud
 
-## AWS Services Covered
 
-| Service | Purpose | Key Notes |
-| --- | --- | --- |
-| | | |
-
-## Summary & Takeaways
-
-- 
-
-## Questions to Review
-
-- 
