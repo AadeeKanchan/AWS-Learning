@@ -1,0 +1,23 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# AWS & Secrets (never commit credentials!)
+.env
+*.pem
+*.ppk
+*.key
+.aws/
+credentials
+config.local.*
+
+# Logs & temporary files
+*.log
+*.tmp
